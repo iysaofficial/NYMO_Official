@@ -59,7 +59,7 @@ const ListOfWinnerDetail2025Comp = () => {
                     <div className="content">
                         <h2>Kurasi</h2>
                         <br />
-                        <Link href="#" target="_blank" className="low-detail-document-button">Segera Hadir</Link>
+                        <Link href="https://drive.google.com/drive/folders/1tcorMHwC-b64xLGXcZprWnnnhRyx1Cl8?usp=sharing" target="_blank" className="low-detail-document-button">Download</Link>
                     </div>
                 </div>
 
