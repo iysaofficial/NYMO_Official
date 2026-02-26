@@ -25,7 +25,7 @@ const NationalOnlineComp: React.FC = () => {
 
   useEffect(() => {
     const scriptURL =
-      "";
+      "https://script.google.com/macros/s/AKfycbwBUofeTgwJiYKJFD5GIARFwFMpGH8fwYdIKmBTKTDFOjgCvVLPVvDOnzvk5zXaS_wf/exec";
 
     const form = document.forms.namedItem("regist-form");
     let buttonCounter = 0;
@@ -122,7 +122,7 @@ const NationalOnlineComp: React.FC = () => {
           {/* INFORMASI UMUM SECTION */}
           <InformasiUmumSection />
 
-          <input type="hidden" name="PRICE" value="Rp. 300.000" readOnly />
+          <input type="hidden" name="PRICE" value="Rp. 350.000" readOnly />
           
           {/* Submit Button */}
           <div className="submit-container">
@@ -344,6 +344,8 @@ const DataSekolahSection: React.FC = () => (
         <label className="field-label">Jenjang Pendidikan</label>
         <select name="JENJANG_PENDIDIKAN" className="select-field" required>
           <option value="">--Pilih Jenjang Pendidikan Anda--</option>
+          <option value="Sekolah Dasar">Sekolah Dasar</option>
+          <option value="Sekolah Menengah Pertama">Sekolah Menengah Pertama</option>
           <option value="Sekolah Menengah Atas">Sekolah Menengah Atas</option>
           <option value="Universitas">Universitas</option>
         </select>
