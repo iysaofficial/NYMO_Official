@@ -151,7 +151,7 @@ const HeaderSection: React.FC = () => (
 const InstructionSection: React.FC = () => (
   <div className="instruction-section">
     <h3 className="instruction-title">
-      HALLO PESERTA NYMO 2026, Mohon perhatikan informasi berikut ini sebelum mengisi formulir pendaftaran:
+      HALO PESERTA NYMO 2026, Mohon perhatikan informasi berikut ini sebelum mengisi formulir pendaftaran:
     </h3>
     <div className="instruction-list">
       <div className="instruction-item">

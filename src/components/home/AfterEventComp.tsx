@@ -15,11 +15,11 @@ const AfterEventComp = () =>{
                     <div className="tes-p">
                         <br />
                         <br />
-                        <p>We are proud to present a video summary of this unforgettable event, as a testament to the passion, dedication, and brilliance that each participant has shown. In our after event video, you will be presented with the memorable moments we had together. </p>
+                        <p>Kami dengan bangga mempersembahkan video ringkasan dari acara tak terlupakan ini, sebagai bukti dari semangat, dedikasi, dan kecemerlangan yang ditunjukkan oleh setiap peserta. Dalam video pasca acara ini, Anda akan disuguhkan dengan momen-momen berkesan yang kami alami bersama.</p>
                         <br />
-                        <p>We invite you to join the celebration. See how passion, hard work, and collaboration can produce something extraordinary. We hope that through this video, you will not only feel our excitement, but also be inspired to continue pursuing your dreams and contributing to the field of science. </p>
+                        <p>Kami mengundang Anda untuk bergabung dalam perayaan ini. Lihatlah bagaimana passion, kerja keras, dan kolaborasi dapat menghasilkan sesuatu yang luar biasa. Kami berharap melalui video ini, Anda tidak hanya merasakan antusiasme kami, tetapi juga terinspirasi untuk terus mengejar impian Anda dan berkontribusi di bidang sains.</p>
                         <br />
-                        <p>Thank you to all participants, mentors, and everyone who supported IYSA Olympiad. See you on the next event!</p>
+                        <p>Terima kasih kepada semua peserta, mentor, dan semua pihak yang telah mendukung Olimpiade IYSA. Sampai jumpa di acara berikutnya!</p>
                     </div>
                     
                 </div>

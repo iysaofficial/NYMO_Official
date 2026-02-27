@@ -18,14 +18,14 @@ const LogoComp = () =>{
                 </ul>
             </div>
             <br/>
-            <h1>Didukung Oleh</h1>
+            {/* <h1>Didukung Oleh</h1>
             <div className="brand-logo">
                 <ul>
                     <li>
                         <img src="/assets/images/logo/MIICA.png" alt=""/>
                     </li>
                 </ul>
-            </div>
+            </div> */}
         </div>
         </section>
         </>
