@@ -33,7 +33,7 @@ const FooterComp = () => {
                         <li><Link href="/">Utama</Link></li>
                         <li><Link href="/#about-section">Tentang</Link></li>
                         {/* <li><a href="#main-category-section">Category</a></li> */}
-                        <li><Link href="https://drive.google.com/file/d/1Yh24wRk4QCw1FX19xb5eclsKpBKuT6Zo/view?usp=sharing">Buku Panduan</Link></li>
+                        <li><Link href="https://drive.google.com/file/d/1WHqzuir7Vqnu3oxJQpje1ZbAJSpzcemp/view?usp=sharing">Buku Panduan</Link></li>
                         <li><Link href="/#contact-section">Kontak</Link></li>
                     </ul>
                 </div>

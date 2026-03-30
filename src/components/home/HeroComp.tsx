@@ -19,7 +19,7 @@ const HeroComp = () =>{
                 <br />
                 <br />
                 <Link href="/registration" className="btn">Registrasi Disini!</Link>
-                <Link href="https://drive.google.com/file/d/1GlCI-mTnhmElOvsk2RSAmM9U-XrsmqYH/preview" target="_blank" className="btn">GuideBook</Link>
+                <Link href="https://drive.google.com/file/d/1WHqzuir7Vqnu3oxJQpje1ZbAJSpzcemp/view?usp=sharing" target="_blank" className="btn">GuideBook</Link>
             </div>
             <div className="hero-img">
                 <img src="/assets/images/logo/NYMO.png" alt="" />
