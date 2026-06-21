@@ -16,7 +16,7 @@ const ListOfWinnerDetail2026Comp = () => {
                 <div className="low-detail-after-event-row">
 
                     <div className="low-detail-after-event-video">
-                        <iframe className="mt-5"  width="100%" height="415" src="https://www.youtube.com/embed/eG7LbaLGfW8?si=UOE0t-7w2jn-CNSa" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
+                        <iframe className="mt-5"  width="100%" height="415" src="https://www.youtube.com/embed/1XSj2Im0yII?si=uf34KCp2n9K1UpwZ" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
                     </div>
         
                     <div className="low-detail-after-event-p">
@@ -81,7 +81,7 @@ const ListOfWinnerDetail2026Comp = () => {
             </div>
         </section>
 
-        {/* <section className="head-low-detail-document-section" id="head-low-detail-document">
+        <section className="head-low-detail-document-section" id="head-low-detail-document">
             <div className="head-low-detail-document-heading">
                 <h1 className="section-header">Press Release 2026</h1>
             </div>
@@ -89,15 +89,15 @@ const ListOfWinnerDetail2026Comp = () => {
                 <div className="low-press-release-container">
                     <div className="low-press-release-wrapper">
 
-                    <iframe src="https://drive.google.com/file/d/1gWAHslZM9SSWavNy2ljkp8XfUbLeeMbb/preview"></iframe>
+                    <iframe src="https://drive.google.com/file/d/1iLC_pVIUKpJiy5RB-OIBP_q9KodoB2Yh/preview"></iframe>
                     
                     </div>
                 </div>
             </section>
             <div className="low-press-release-button-container">
-                <Link href="https://drive.google.com/file/d/1gWAHslZM9SSWavNy2ljkp8XfUbLeeMbb/view?usp=sharing" className="low-press-release-button">Download Press Release</Link>
+                <Link href="https://drive.google.com/file/d/1iLC_pVIUKpJiy5RB-OIBP_q9KodoB2Yh/view?usp=sharing" className="low-press-release-button">Download Press Release</Link>
             </div>
-        </section> */}
+        </section>
         <br />
         </>
     )
